@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @romulo-martins
+- 👋 Hi folks, I’m @romulo-martins
 - 👀 My mainly interests are Ruby, Elixir and Clojure programming languages. I like a little bit of JavaScript and Python too. 
 - 🌱 I’m currently learning Clojure and Flutter/Dart. I want to learn some Rust soon. 
 - 📫 How to reach me:
