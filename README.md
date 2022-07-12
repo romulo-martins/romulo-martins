@@ -7,6 +7,7 @@
 ![Ruby](https://img.shields.io/badge/RUBY-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Shell-Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Editors
 
@@ -20,6 +21,7 @@
 
 ![Amazon-AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Heroku](https://img.shields.io/badge/HEROKU-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)
 ![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -59,4 +61,11 @@
 ![Pedestal](https://img.shields.io/badge/PEDESTAL-1A3D78.svg?style=for-the-badge&logo=Pedestal&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Rails](https://img.shields.io/badge/RAILS-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESSJS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESSJS-000000.svg?style=for-the-badge&logo=Express&logoColor=white
+
+#### Office
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
