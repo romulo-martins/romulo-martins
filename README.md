@@ -61,7 +61,7 @@
 ![Pedestal](https://img.shields.io/badge/PEDESTAL-1A3D78.svg?style=for-the-badge&logo=Pedestal&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Rails](https://img.shields.io/badge/RAILS-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
-![Express](https://img.shields.io/badge/EXPRESSJS-000000.svg?style=for-the-badge&logo=Express&logoColor=white
+![Express](https://img.shields.io/badge/EXPRESSJS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 
 #### Office
 
