@@ -27,7 +27,6 @@
 ![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![OpsGenie](https://img.shields.io/badge/OPSGENIE-172B4D.svg?style=for-the-badge&logo=OpsGenie&logoColor=white)
-![Jenkins](https://img.shields.io/badge/JENKINS-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Splunk](https://img.shields.io/badge/SPLUNK-111C29.svg?style=for-the-badge&logo=Splunk&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
